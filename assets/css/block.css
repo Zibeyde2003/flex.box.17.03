@@ -1,0 +1,84 @@
+#umumibox{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center ;
+}
+.Boxx{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid green;
+
+}
+#arxafon{
+    background-color: rgb(0, 255, 221);
+}
+.solteref{
+    display: flex;
+    flex-direction: column;
+
+}
+.AandB{
+    display: flex;
+    flex-direction: row;
+
+}
+.Adiv{
+    margin: 20px 20px ;
+    width: 120px;
+    height: 150px;
+}
+.Bdiv{
+    margin-top: 20px;
+    width:200px;
+    height: 150px;
+}
+.CandDandE{
+    display: flex;
+    flex-direction: row;
+
+}
+.CandD{
+    display: flex;
+    flex-direction: column;
+}
+.Cdiv{
+    margin: 0px 20px 20px 20px;
+    width: 60px;
+    height: 100px;
+}
+.Ddiv{
+    margin: 0px 20px 20px 20px;
+    width: 60px;
+    height: 100px;
+}
+.Ediv{
+    width:260px;
+    height: 220px;
+}
+.sagteref{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.Fdiv{
+    align-items: stretch;
+    width: 150px;
+}
+.GandH{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.Gdiv{
+    width: 150px;
+    height: 280px;
+}
+.Hdiv{
+    margin-top:20px ;
+    width: 150px;
+    height: 90px;
+}
